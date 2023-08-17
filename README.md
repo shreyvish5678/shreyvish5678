@@ -6,4 +6,4 @@ Hello! My name is Shrey, a high school sophomore, and am a Machine Learning Engi
 - I mainly use TensorFlow, but have just started learning PyTorch
 - Neural Networks from scratch. Check out this great book at nnfs.io
 
-That's all. I'm learning web dev, so stay on the lookout for a website!
+
