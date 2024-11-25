@@ -4,6 +4,4 @@ Hello! My name is Shrey, a high school junior, and am a Machine Learning Enginee
 # What I like
 - I use HuggingFace for pre-trained models. Check it out at huggingface.co
 - I use pytorch mainly, but also know some tensorflow
-- Currently working on a research project with 3D NeRFs
-
-
+- Currently working on a project for Stable diffusion in CUDA
